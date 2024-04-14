@@ -1,0 +1,5 @@
+name: jupyterlab_practice
+channels:
+  - conda-forge
+  - defaults
+prefix: E:\Programs\miniconda3\envs\jupyterlab_practice
